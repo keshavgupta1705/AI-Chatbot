@@ -1,0 +1,18 @@
+{
+  "greeting": {
+    "examples": ["hello", "hi", "hey", "good morning", "good evening"],
+    "responses": ["Hi there!", "Hello! How can I help?"]
+  },
+  "goodbye": {
+    "examples": ["bye", "goodbye", "see you later"],
+    "responses": ["Goodbye!", "See you — take care!"]
+  },
+  "order_pizza": {
+    "examples": ["I want a pizza", "order pizza", "get me a pizza", "pizza order"],
+    "responses": ["What size pizza would you like? Small, medium, or large?"]
+  },
+  "thanks": {
+    "examples": ["thanks", "thank you", "thx"],
+    "responses": ["You're welcome!", "Happy to help!"]
+  }
+}
